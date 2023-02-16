@@ -1,4 +1,4 @@
-### Hi there 👋
+### [✨About me](https://cookiehoodie.github.io/)
 
 <!--
 **CookieHoodie/CookieHoodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
