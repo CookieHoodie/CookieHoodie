@@ -1,6 +1,10 @@
+## More stars🌟 to come
+[![Chin Hang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieHoodie&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieHoodie&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+## Working hard on algo💪
+![Leetcode Stats](https://leetcard.jacoblin.cool/cookiehoodie?theme=unicorn)
 
+## About me
 - ### ✨Check out my [Portfolio](https://cookiehoodie.github.io/)
 - ### 📝Check out my [Blog](https://cookiehoodie.github.io/blog/)
 
