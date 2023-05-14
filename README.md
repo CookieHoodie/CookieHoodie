@@ -5,8 +5,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/cookiehoodie?theme=unicorn)
 
 ## About me
-- ### ✨Check out my [Portfolio](https://cookiehoodie.github.io/)
-- ### 📝Check out my [Blog](https://cookiehoodie.github.io/blog/)
+- ### ✨Check out my [Portfolio ➜](https://cookiehoodie.github.io/) 
+- ### 📝Check out my [Blog ➜](https://cookiehoodie.github.io/blog/) 
 
 <!--
 **CookieHoodie/CookieHoodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
